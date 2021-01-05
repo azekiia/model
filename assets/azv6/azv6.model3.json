@@ -1,11 +1,11 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "azv5.moc3",
+		"Moc": "azv6.moc3",
 		"Textures": [
-			"azv5.8192/texture_00.png"
+			"azv6.8192/texture_00.png"
 		],
-		"Physics": "azv5.physics3.json",
+		"Physics": "azv6.physics3.json",
 		"Motions": {
 			"": [
 				{
