@@ -5,7 +5,14 @@
 		"Textures": [
 			"azv5.8192/texture_00.png"
 		],
-		"Physics": "azv5.physics3.json"
+		"Physics": "azv5.physics3.json",
+		"Motions": {
+			"": [
+				{
+					"File": "motions/tired.motion3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
@@ -18,5 +25,6 @@
 			"Name": "EyeBlink",
 			"Ids": []
 		}
-	]
+	],
+	"HitAreas": []
 }
