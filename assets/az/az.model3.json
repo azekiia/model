@@ -3,10 +3,16 @@
 	"FileReferences": {
 		"Moc": "az.moc3",
 		"Textures": [
-			"az.4096/texture_00.png"
+			"az.8192/texture_00.png"
 		],
 		"Physics": "az.physics3.json",
-		"DisplayInfo": "az.cdi3.json"
+		"Motions": {
+			"": [
+			  {
+				"File": "motions/tired.motion3.json"
+			  }
+			]
+		  }
 	},
 	"Groups": [
 		{
