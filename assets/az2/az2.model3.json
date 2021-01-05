@@ -1,0 +1,30 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "az2.moc3",
+		"Textures": [
+			"az2.2048/texture_00.png"
+		],
+		"Physics": "az2.physics3.json",
+		"Motions": {
+			"": [
+				{
+					"File": "../az/motions/tired.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
